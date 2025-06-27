@@ -1,27 +1,32 @@
-# 👋 Hello, World! I'm OmKuthe! 
+# 👋 Hey there! I'm Om Kuthe
 
-## 🌟 Who Am I?
-Greetings, fellow tech enthusiasts! I’m Om, your friendly neighborhood coder on a quest to conquer the realms of **web development**. Armed with a keyboard and a cup of coffee ☕, I navigate through the worlds of **HTML**, **CSS**, and **JavaScript**. 
+## 💡 About Me
+I’m an engineering student and developer passionate about building tech that solves real-world problems. Whether it’s crafting full-stack web apps or experimenting with AI/ML, I love turning ideas into working products.
 
-When I’m not glued to my screen, you can find me conquering virtual worlds in video games or enjoying a good match while trying to perfect my art!
+I enjoy exploring new tools and frameworks that help me grow as a developer. Currently, I’m deepening my skills in full-stack development, Java, and real-time applications using machine learning and computer vision.
 
-## 🚀 What I’m Up To
-Currently, I’m diving headfirst into the exciting universe of **full-stack web development**. My current mission involves mastering **React** and **Java backend**, all while juggling my gaming habit—because who says you can't play hard and work hard? 🎮
+## 🚀 Projects I’m Proud Of
+- 🎓 **SkillBridge**: A Java + MySQL desktop platform for professional skill-sharing and connections.
+- 💰 **Expense Tracker**: A MERN stack web app for tracking personal finances with CSV imports and data analytics.
+- 🧠 **ASL Translator**: A real-time American Sign Language interpreter built using MediaPipe, TensorFlow, and LSTM.
 
-## 🤝 Collaboration Opportunities
-I’m on the lookout for awesome collaborators who share my passion! Let’s team up to create:
-<br>
--"Innovative web applications" that transform everyday tasks into delightful experiences! ✨
-<br>
--"Java projects" that challenge our skills and push the boundaries of what we can create together!
+## 🔧 Tech Stack
+**Languages**: Java, Python, JavaScript  
+**Frontend**: React.js, HTML, CSS  
+**Backend**: Node.js, Express.js, Firebase  
+**Databases**: MongoDB, MySQL  
+**Others**: Git, OpenCV, TensorFlow, MediaPipe
 
-## 💬 Let’s Chat!
-I love connecting with fellow developers and gamers! Whether you want to discuss the latest tech trends or share your favorite game strategies, I’m all in! Connect with me on [LinkedIn](https://www.linkedin.com/in/om-kuthe-69484828a/) or drop me a message here. 
+## 🎯 Current Focus
+- React Native & Firebase-based mobile app development  
+- Real-time applications with AI/ML integration  
+- Building projects that improve accessibility and user experience
 
-## ⚡ Fun Fact
-Here’s a little secret: I once tried to code a game and accidentally created a ‘loading screen simulator’—because nothing happened for hours! 😂 Who knew programming could be such a test of patience?
+## 🤝 Let’s Collaborate
+I’m always open to connecting with fellow developers, working on exciting ideas, or contributing to cool open-source projects. If you share a passion for building and learning — let’s connect!
 
-<!---
-OmKuthe/OmKuthe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 [LinkedIn](https://www.linkedin.com/in/om-kuthe-69484828a/)  
+💻 [Portfolio](https://github.com/OmKuthe)
+
+## ⚽ Fun Fact
+I code, I debug, I play FIFA, and I support FC Barcelona. If we’re not fixing bugs, we’re probably fixing lineups 😄
